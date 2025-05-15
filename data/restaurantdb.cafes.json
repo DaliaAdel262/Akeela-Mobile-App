@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "68249a4ca93d777725412aed"
+  },
+  "name": "Cilantro",
+  "location": "Giza",
+  "products": [
+    {
+      "$oid": "64e8a7f0c6f75b2a947cd311"
+    },
+    {
+      "$oid": "64e8a7f0c6f75b2a947cd312"
+    }
+  ],
+  "image": "https://images.deliveryhero.io/image/talabat/restaurants/Logo_cilantro_on_Talabat0637956372511994389.jpg?width=300"
+},
+{
+  "_id": {
+    "$oid": "68249a64a93d777725412aee"
+  },
+  "name": "Dunkin Donuts",
+  "location": "Cairo",
+  "products": [
+    {
+      "$oid": "64e8a7f0c6f75b2a947cd314"
+    },
+    {
+      "$oid": "64e8a7f0c6f75b2a947cd315"
+    }
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png"
+}]

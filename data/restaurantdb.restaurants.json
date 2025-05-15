@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "682499d6a93d777725412aeb"
+  },
+  "name": "McDonald's",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/640px-McDonald%27s_Golden_Arches.svg.png",
+  "location": "Cairo",
+  "products": [
+    {
+      "$oid": "64e8a7f0c6f75b2a947cd301"
+    },
+    {
+      "$oid": "64e8a7f0c6f75b2a947cd302"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68249a16a93d777725412aec"
+  },
+  "name": "KFC",
+  "location": "Cairo",
+  "products": [
+    {
+      "$oid": "64e8a7f0c6f75b2a947cd304"
+    },
+    {
+      "$oid": "64e8a7f0c6f75b2a947cd305"
+    }
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/sco/thumb/b/bf/KFC_logo.svg/1200px-KFC_logo.svg.png"
+}]
